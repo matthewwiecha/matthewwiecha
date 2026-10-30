@@ -13,4 +13,4 @@ I hold a Master's in Urban Planning from Hunter College and a BA in Media Studie
 
 Python (pandas, Jupyter) · ArcGIS Pro · QGIS · Excel · Transportation Planning · Spatial Analysis
 
-[Personal Website](https://www.matthewwiecha.com) · [Grand Street Planning Studio](https://www.hunterurban.org/studio/grand-street-bid)
+[Personal Website](https://www.matthewwiecha.com) · [Google Scholar](https://scholar.google.com/citations?user=2DhuyYkAAAAJ&hl=en) · [Medium](https://matthewwiecha.medium.com) · [Grand Street Planning Studio](https://www.hunterurban.org/studio/grand-street-bid)
